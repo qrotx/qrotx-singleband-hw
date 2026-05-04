@@ -1,4 +1,4 @@
-# qrotx Hardware
+# qrotx Singleband Transmitter Hardware
 
 This is work in progress, it has not yet been tested. Description and calculations will be added later.
 
@@ -7,7 +7,7 @@ This is work in progress, it has not yet been tested. Description and calculatio
 This repository uses a git submodule for the KiCad symbol and footprint libraries. Clone with:
 
 ```bash
-git clone --recurse-submodules git@github.com:qrotx/qrotx-hardware.git
+git clone --recurse-submodules git@github.com:qrotx/qrotx-singleband-hw.git
 ```
 
 If you already cloned without `--recurse-submodules`, initialize the submodule with:
